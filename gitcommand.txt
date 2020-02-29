@@ -3,3 +3,4 @@ git init
 git --a
 git comit -m "____"
 git add first.txt
+git command
