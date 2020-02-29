@@ -1,0 +1,5 @@
+git status
+git init
+git --a
+git comit -m "____"
+git add first.txt
